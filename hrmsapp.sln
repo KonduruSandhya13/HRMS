@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hrms1 Console ui", "hrms1 Console ui\hrms1 Console ui.csproj", "{ECC8A699-A2A0-4F1D-BDA2-F8BA26E11090}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hrms entities lib", "hrms entities lib\hrms entities lib.csproj", "{9D8605A2-2DCF-4B18-A8B4-D20D9FA2E966}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hrms business lib", "hrms business lib\hrms business lib.csproj", "{6CE40A13-2027-4466-BA40-9C5022F389B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hrms dataaccess lib", "hrms dataaccess lib\hrms dataaccess lib.csproj", "{5B414582-5522-4343-AEEB-2F2CD6E7AB3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hrms winform ui", "hrms winform ui\hrms winform ui.csproj", "{1C187551-6053-45A6-8D4E-4F5463CEAB81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECC8A699-A2A0-4F1D-BDA2-F8BA26E11090}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECC8A699-A2A0-4F1D-BDA2-F8BA26E11090}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECC8A699-A2A0-4F1D-BDA2-F8BA26E11090}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECC8A699-A2A0-4F1D-BDA2-F8BA26E11090}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D8605A2-2DCF-4B18-A8B4-D20D9FA2E966}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D8605A2-2DCF-4B18-A8B4-D20D9FA2E966}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D8605A2-2DCF-4B18-A8B4-D20D9FA2E966}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D8605A2-2DCF-4B18-A8B4-D20D9FA2E966}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CE40A13-2027-4466-BA40-9C5022F389B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CE40A13-2027-4466-BA40-9C5022F389B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CE40A13-2027-4466-BA40-9C5022F389B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CE40A13-2027-4466-BA40-9C5022F389B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B414582-5522-4343-AEEB-2F2CD6E7AB3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B414582-5522-4343-AEEB-2F2CD6E7AB3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B414582-5522-4343-AEEB-2F2CD6E7AB3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B414582-5522-4343-AEEB-2F2CD6E7AB3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C187551-6053-45A6-8D4E-4F5463CEAB81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C187551-6053-45A6-8D4E-4F5463CEAB81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C187551-6053-45A6-8D4E-4F5463CEAB81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C187551-6053-45A6-8D4E-4F5463CEAB81}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56DE7F21-D667-4371-BDF2-6FCBB259FCD5}
+	EndGlobalSection
+EndGlobal
